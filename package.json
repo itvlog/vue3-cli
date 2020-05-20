@@ -1,0 +1,30 @@
+{
+  "name": "vue3-cli",
+  "version": "1.0.3",
+  "description": "极速创建vue3项目的命令行工具",
+  "main": "index.js",
+  "bin": {
+    "vue3-cli": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Vue3",
+    "脚手架"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "clear": "^0.1.0",
+    "commander": "^5.1.0",
+    "git-clone": "^0.1.0",
+    "open": "^7.0.3",
+    "shelljs": "^0.8.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/itvlog/vue3-cli.git"
+  }
+}
